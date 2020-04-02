@@ -1,0 +1,3 @@
+﻿  nlp.cpp
+Z:\Project\VSproject\NLP\nlp.cpp(36,20): warning C4018: “>”: 有符号/无符号不匹配
+  NLP.vcxproj -> Z:\Project\VSproject\NLP\Debug\NLP.exe

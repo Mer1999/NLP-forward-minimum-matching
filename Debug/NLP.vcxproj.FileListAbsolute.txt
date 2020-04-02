@@ -1,0 +1,2 @@
+Z:\Project\VSproject\NLP\Debug\NLP.exe
+Z:\Project\VSproject\NLP\Debug\NLP.pdb
